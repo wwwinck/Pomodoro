@@ -1,5 +1,18 @@
 body {
-  background-color: #ccc;
+  width: 100%;
+  height: 800px;
+  background-color: #AAA1C8;
+}
+
+.second {
+  width: 100%;
+  height: 200px;
+  margin-top: 70px;
+  padding-top: 40px;
+  border-radius: 5px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  text-align: center;
 }
 
 /*# sourceMappingURL=/style.500aa19d.css.map */
